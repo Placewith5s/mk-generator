@@ -1,6 +1,6 @@
-from modules.mk_file import create_write_mk
+import mk_generator
 
 def main():
-    create_write_mk("makefile", "main.cpp")
+    mk_generator.create_write_mk("makefile", "main.cpp")
     
 main()

@@ -107,6 +107,11 @@ $RECYCLE.BIN/
 *.lnk
 
 # Custom
+dist
+makefile_generator.egg-info
+.venv
+__init__.py
+pyproject.toml
 *.mk
 __pycache__
 
