@@ -1,4 +1,4 @@
-__version__: str = "1.0.1"
+__version__: str = "1.0.2"
 
 from typing import Literal
 

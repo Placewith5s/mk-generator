@@ -5,7 +5,7 @@ Heads up: This is a Python-only module.
 
 1. Install the module with pip:
 ```bash
-pip install makefile-generator==1.0.1
+pip install makefile-generator
 ```
 2. Use the module by importing it:
 ```py
